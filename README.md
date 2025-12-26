@@ -2,7 +2,9 @@
 
 Interactive **D3.js** choropleth map showing movie-related metrics (e.g. average rating, revenue) by country using a movie dataset. The project is a static web app: open `index.html` in a browser to explore the map. This was implmented as part of a group vizualisation project. 
 
-## Features
+![Choropleth screenshot](template.png)
+ 
+ ## Features
 
 - World choropleth map using TopoJSON country shapes. 
 - Country colouring based on movie statistics per country.
